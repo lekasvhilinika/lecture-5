@@ -1,0 +1,44 @@
+.place {
+	display: inline-block;
+}
+section {
+	display: inline-block;
+}
+h1 {
+	width: 474px;
+	height: 34px;
+	font-weight: 700;
+	font-size: 36px;
+	color:#4E6FAE;;
+}
+.second 
+{
+	width: 307px;
+	height: 24px;
+	font-weight: 400;
+	font-size: 20px;
+	color:#7E8898;
+
+}
+.map {
+	width: 600px;
+	height: 549px;
+	top: -288px;
+	left: 2838px;
+	margin-top: 92px;
+	margin-left: 42px;
+
+}
+section {
+	width: 100%;
+	background-color:#E7E7E7;
+    height: 735px;
+   padding-left: 50px;
+
+}
+.info {
+	display: inline-block;
+}
+body {
+	padding: 0px 0px;
+}
